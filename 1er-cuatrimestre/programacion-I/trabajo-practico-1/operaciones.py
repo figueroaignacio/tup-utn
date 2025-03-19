@@ -1,3 +1,6 @@
+# Crear un programa que pida al usuario dos números enteros distintos del 0 y muestre por 
+# pantalla el resultado de sumarlos, dividirlos, multiplicarlos y restarlos. 
+
 a = int(input("Ingrese el primer número (distinto a 0): "))
 b = int(input("Ingrese el segundo número (distinto a 0): "))
 
