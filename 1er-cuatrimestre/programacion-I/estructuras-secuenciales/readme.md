@@ -1,4 +1,4 @@
-# Programación 1
+# Estructuras Secuenciales
 
 ## Resultados de aprendizaje
 
