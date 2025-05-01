@@ -8,3 +8,6 @@
 - Actividad 4: [Introducción a Google Cloud Shell aplicado a bash](https://www.youtube.com/watch?v=M43W88vhmUw)
 
 ## Semana 2
+
+- Actividad 1: [Scripting en Bash - Introducción y conceptos básicos](https://www.youtube.com/watch?v=4R7HXxVguSA)
+- Actividad 2: [Scripting en Bash - Control de flujo](https://www.youtube.com/watch?v=9KKwlkippyg)
