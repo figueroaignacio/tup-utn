@@ -215,7 +215,7 @@ while IFS= read -r nombre; do
   echo "¡Hola, $nombre!"
 done < nombres.txt
 
-Ejercicio 7.3
+# Ejercicio 7.3
 
 suma=0
 
