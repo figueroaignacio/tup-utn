@@ -217,8 +217,6 @@ done < nombres.txt
 
 Ejercicio 7.3
 
-!/bin/bash
-
 suma=0
 
 echo "Por favor, ingresa 5 números para calcular el promedio:"
