@@ -1,4 +1,4 @@
-# Trabajo práctico - Listas
+# Trabajo práctico 5.1 - Listas
 
 - Materia: Programación I
 - Nombre: Ignacio Figueroa

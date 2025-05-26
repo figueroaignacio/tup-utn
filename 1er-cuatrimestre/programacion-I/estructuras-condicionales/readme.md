@@ -1,4 +1,4 @@
-# Trabajo práctico - Estructuras Condicionales
+# Trabajo práctico 3 | Estructuras Condicionales
 
 - Materia: Programación I
 - Nombre: Ignacio Figueroa

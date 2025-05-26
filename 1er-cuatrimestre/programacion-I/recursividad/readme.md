@@ -1,4 +1,4 @@
-# Trabajo práctico 2 - Trabajo Colaborativo
+# Trabajo práctico 7 | Recursividad
 
 - Materia: Programación I
 - Nombre: Ignacio Figueroa

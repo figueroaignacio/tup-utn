@@ -1,4 +1,4 @@
-# Trabajo práctico - Estructuras Secuenciales
+# Trabajo práctico 1 | Estructuras Secuenciales
 
 - Materia: Programación I
 - Nombre: Ignacio Figueroa

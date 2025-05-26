@@ -1,4 +1,4 @@
-# Trabajo práctico - Estructuras Repetitivas
+# Trabajo práctico 4 | Estructuras Repetitivas
 
 - Materia: Programación I
 - Nombre: Ignacio Figueroa
