@@ -1,4 +1,4 @@
-# AySO
+# Organización Empresarial
 
 Tecnicatura Universitaria en Programación
 📍 Universidad Tecnológica Nacional
@@ -12,4 +12,4 @@ Este repositorio almacena todas los trabajos prácticos realizados durante la cu
 
 📌 Estructura del repositorio:
 
-Cada trabajo está organizado en carpetas individuales con sus consignas y soluciones en PDF o en algunos casos, en Bash.
+Cada trabajo está organizado en carpetas individuales con sus consignas y soluciones en PDF.
