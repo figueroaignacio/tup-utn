@@ -4,4 +4,4 @@
 - Nombre: Ignacio Figueroa
 - Comision: 7
 
-Mis soluciones a las consignas del trabajo practico de programacion sobre trabajo colaborativo.
+Mis soluciones a las consignas del trabajo practico de programacion sobre recursividad.
