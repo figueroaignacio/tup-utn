@@ -1,13 +1,14 @@
 # AySO
 
-Tecnicatura Universitaria en Programación
-📍 Universidad Tecnológica Nacional
+Tecnicatura Universitaria en Programación | Universidad Tecnológica Nacional (UTN)
 
-# ✨ Estudiante
+## ✨ Estudiante
 
-Nombre: Figueroa, Edgar Ignacio
-Comisión: M2025-7
-📂 Descripción del Repositorio
+- Nombre: Figueroa, Edgar Ignacio
+- Comisión: M2025-7
+
+## 📂 Descripción del Repositorio
+
 Este repositorio almacena todas los trabajos prácticos realizados durante la cursada de Organizacion Empresarial.
 
 📌 Estructura del repositorio:
