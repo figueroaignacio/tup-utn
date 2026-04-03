@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Food Store | TP Integrador - JavaScript | Ignacio Figueroa</title>
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+    <header class="header">
+      <h1 class="header__title">🍔 Food Store</h1>
+      <nav class="header__nav">
+        <a href="#" class="header__link">Inicio</a>
+        <a href="#" class="header__link">Mis Pedidos</a>
+        <a href="#" class="header__link">Carrito</a>
+        <a href="admin.html" class="header__link">Panel Admin</a>
+      </nav>
+    </header>
+    <aside class="sidebar">
+      <h2 class="sidebar__title">Categorías</h2>
+      <ul id="lista-categorias" class="sidebar__list"></ul>
+    </aside>
+    <main class="content">
+      <form class="search-form">
+        <input type="text" class="search-form__input" placeholder="Buscar productos..." />
+        <button type="submit" class="search-form__button">Buscar</button>
+      </form>
+      <h2 class="content__title">Productos Destacados</h2>
+      <section id="contenedor-productos" class="product-grid"></section>
+    </main>
+    <footer class="footer">
+      <p class="footer__text">© 2024 Food Store. Todos los derechos reservados.</p>
+      <p class="footer__text">Contacto: info@foodstore.com</p>
+    </footer>
+  </body>
+  <script src="js/data.js"></script>
+  <script src="js/main.js"></script>
+</html>
