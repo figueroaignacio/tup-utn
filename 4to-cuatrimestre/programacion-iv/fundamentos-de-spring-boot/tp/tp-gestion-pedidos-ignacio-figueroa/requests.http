@@ -1,0 +1,42 @@
+### Listar categorias
+GET http://localhost:8080/api/categorias
+
+### Listar productos
+GET http://localhost:8080/api/productos
+
+### Productos de una categoria
+GET http://localhost:8080/api/productos?categoriaId=1
+
+### Listar usuarios (fijate que NO viene la contrasenia)
+GET http://localhost:8080/api/usuarios
+
+### Listar pedidos con sus detalles y totales
+GET http://localhost:8080/api/pedidos
+
+### Crear una categoria nueva
+POST http://localhost:8080/api/categorias
+Content-Type: application/json
+
+{
+  "nombre": "Deportes",
+  "descripcion": "Articulos deportivos"
+}
+
+### Crear un pedido nuevo
+POST http://localhost:8080/api/pedidos
+Content-Type: application/json
+
+{
+  "usuarioId": 2,
+  "formaPago": "TARJETA",
+  "detalles": [
+    { "productoId": 1, "cantidad": 1 },
+    { "productoId": 5, "cantidad": 2 }
+  ]
+}
+
+### Cambiar el estado de un pedido
+PATCH http://localhost:8080/api/pedidos/1/estado?estado=CONFIRMADO
+
+### Quitar un producto de un pedido (deleteDetallePedidoByProducto del UML)
+DELETE http://localhost:8080/api/pedidos/1/productos/3
